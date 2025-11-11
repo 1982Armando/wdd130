@@ -23,6 +23,9 @@ main img {
 
 main {
     max-width: 840px;
+    margin: 0 auto;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
 }
 
 p {
